@@ -13,3 +13,9 @@ Este proyecto es una aplicación web desarrollada con **Flask**, con una capa de
    ```bash
    git clone https://github.com/kimyork32/sistema_monitoreo.git
    cd sistema_monitoreo
+
+2. Instalar dependecias:
+
+ ```bash
+   pip install Flask
+   pip install Flask-SQLAlchemy
